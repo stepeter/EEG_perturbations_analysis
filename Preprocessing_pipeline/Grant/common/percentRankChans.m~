@@ -1,0 +1,68 @@
+function [percentRank]=percentRankChans(EEG,key,weights)
+    %Takes in EEG channels and ranks them for channel rejection measures
+    %depending on key used.
+    %   Possible key values:
+    %       - 'correlation': ranking based on correlation
+    %       - 'stdev': ranking based on standard deviation
+    %       - 'kurt': ranking based on kurtosis
+    %       - 'range': ranking based on range
+    %       - 'all': ranking based on all of above
+    %       - 'allnorange': ranking based on all but range
+    %Weights is 4 column vector with weighting for each measure
+    %(correlation, standard deviation, kurtosis, range)
+    
+    scores=zeros(length(EEG.chanlocs),4); %nCol=1;
+    
+    %Rank correlations (higher is worse)
+    %if strcmp(key,'correlation')||strcmp(key,'all')||strcmp(key,'allnorange')
+        disp('Computing correlations...');
+        [badchanindts,badchanlogts,c_cellts,IND,maxcts]=detectnoisychannelts(EEG);
+        percentSecondsBad = sum(badchanlogts') / size(badchanlogts,2);
+        percentSecondsBad = abs(percentSecondsBad); %make sure all positive
+        corRank=tiedrank(percentSecondsBad)/length(percentSecondsBad);
+        scores(:,1)=corRank;
+    %    nCol=nCol+1;
+    %end
+    
+    %Rank standard deviation (higher is worse)
+    %if strcmp(key,'stdev')||strcmp(key,'all')||strcmp(key,'allnorange')
+        disp('Computing standard deviation...');
+        try
+            stdev = std(EEG.data,0,2);
+        catch
+            %catch memory error and compute std one channel at a time
+            stdev = [];
+            for i = 1:EEG.nbchan
+                disp(['Computing standard deviation for channel ' num2str(i) '...']);
+                stdev(i) = std(EEG.data(i,:));
+            end
+        end
+        stdev=abs(stdev); %make sure all positive
+        stdRank=tiedrank(stdev)/length(stdev);
+        scores(:,2)=stdRank;
+    %    nCol=nCol+1;
+    %end
+    
+    %Rank Kurtosis (higher is worse)
+    %if strcmp(key,'kurt')||strcmp(key,'all')||strcmp(key,'allnorange')
+        %disp('Computing kurtosis...');
+        [REJ_EEG rej_chan_idx measure] = pop_rejchan(EEG,'elec',...
+                [1:EEG.nbchan],'threshold',5,'norm',...
+                'on','measure','kurt');
+        kurtRank=tiedrank(measure)/length(measure);
+        scores(:,3)=kurtRank;
+    %    nCol=nCol+1;
+    %end
+    
+    %Rank Range
+    %if strcmp(key,'range')||strcmp(key,'all')
+        disp('Computing range...');
+        ranges=range(EEG.data,2);
+        rangeRank=tiedrank(ranges)/length(ranges);
+        scores(:,4)=rangeRank;
+    %    nCol=nCol+1;
+    %end
+    
+    %Weighted average across percent ranks for each channel
+    percentRank=mean(scores.*(ones(size(scores,1),1)*weights),2);
+end

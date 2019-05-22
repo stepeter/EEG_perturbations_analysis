@@ -1,0 +1,2418 @@
+3	2
+1
+//ecProbe: name:
+%N		
+//TypeCode	nsensors
+1	267
+//Fiducials (Nasion, LPA, RPA)
+%F	0.0849969	-1.17599e-028	0
+%F	8.67549e-013	0.0849969	0
+%F	-8.67549e-013	-0.0849969	0
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	A1
+//sphere origin
+%O	0	0	0
+//origin
+-2.28007e-005	-3.36548e-006	0.126818
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	A2
+//sphere origin
+%O	0	0	0
+//origin
+-0.0148569	5.19914e-005	0.128704
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	A3
+//sphere origin
+%O	0	0	0
+//origin
+-0.0302116	0.000123644	0.129109
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	A4
+//sphere origin
+%O	0	0	0
+//origin
+-0.0458277	0.00020311	0.12722
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	A5
+//sphere origin
+%O	0	0	0
+//origin
+-0.0615683	0.00029892	0.123347
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	A6
+//sphere origin
+%O	0	0	0
+//origin
+-0.0763769	0.000380646	0.115932
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	A7
+//sphere origin
+%O	0	0	0
+//origin
+-0.0729536	0.0202225	0.114594
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	A8
+//sphere origin
+%O	0	0	0
+//origin
+-0.0845325	0.0233967	0.10279
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	A9
+//sphere origin
+%O	0	0	0
+//origin
+-0.0949532	0.0208955	0.0885576
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	A10
+//sphere origin
+%O	0	0	0
+//origin
+-0.101924	0.0224167	0.0728129
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	A11
+//sphere origin
+%O	0	0	0
+//origin
+-0.106493	0.022939	0.0560151
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	A12
+//sphere origin
+%O	0	0	0
+//origin
+-0.109614	0.0236929	0.0390062
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	A13
+//sphere origin
+%O	0	0	0
+//origin
+-0.108858	0.0235971	0.0211098
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	A14
+//sphere origin
+%O	0	0	0
+//origin
+-0.108602	0.0237699	0.00332763
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	A15
+//sphere origin
+%O	0	0	0
+//origin
+-0.111067	0.000685752	0.00373636
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	A16
+//sphere origin
+%O	0	0	0
+//origin
+-0.113047	0.000603358	0.0214391
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	A17
+//sphere origin
+%O	0	0	0
+//origin
+-0.113323	0.000551894	0.0394555
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	A18
+//sphere origin
+%O	0	0	0
+//origin
+-0.109756	0.00048413	0.0565231
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	A19
+//sphere origin
+%O	0	0	0
+//origin
+-0.105455	0.000464755	0.0736823
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	A20
+//sphere origin
+%O	0	0	0
+//origin
+-0.0982309	0.000441938	0.0896238
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	A21
+//sphere origin
+%O	0	0	0
+//origin
+-0.0886136	0.000419625	0.104091
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	A22
+//sphere origin
+%O	0	0	0
+//origin
+-0.0728598	-0.0194971	0.114446
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	A23
+//sphere origin
+%O	0	0	0
+//origin
+-0.0854169	-0.0228577	0.103925
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	A24
+//sphere origin
+%O	0	0	0
+//origin
+-0.0956981	-0.0202264	0.0892908
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	A25
+//sphere origin
+%O	0	0	0
+//origin
+-0.102651	-0.0216989	0.0733548
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	A26
+//sphere origin
+%O	0	0	0
+//origin
+-0.108611	-0.0214444	0.0570581
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	A27
+//sphere origin
+%O	0	0	0
+//origin
+-0.112268	-0.0221517	0.0398635
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	A28
+//sphere origin
+%O	0	0	0
+//origin
+-0.112195	-0.0221195	0.0216659
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	A29
+//sphere origin
+%O	0	0	0
+//origin
+-0.110681	-0.0217898	0.00372546
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	A30
+//sphere origin
+%O	0	0	0
+//origin
+-0.100981	-0.0421057	0.0037249
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	A31
+//sphere origin
+%O	0	0	0
+//origin
+-0.104843	-0.0436993	0.021496
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	A32
+//sphere origin
+%O	0	0	0
+//origin
+-0.103464	-0.0430819	0.0390774
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	B1
+//sphere origin
+%O	0	0	0
+//origin
+-0.0242447	-0.0177699	0.128225
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	B2
+//sphere origin
+%O	0	0	0
+//origin
+-0.0421422	-0.0175361	0.126704
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	B3
+//sphere origin
+%O	0	0	0
+//origin
+-0.048496	-0.0355846	0.120102
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	B4
+//sphere origin
+%O	0	0	0
+//origin
+-0.0646734	-0.0376616	0.113426
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	B5
+//sphere origin
+%O	0	0	0
+//origin
+-0.075619	-0.044044	0.102717
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	B6
+//sphere origin
+%O	0	0	0
+//origin
+-0.0894459	-0.0400609	0.089455
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	B7
+//sphere origin
+%O	0	0	0
+//origin
+-0.0960662	-0.0430219	0.0735798
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	B8
+//sphere origin
+%O	0	0	0
+//origin
+0.081657	-0.0339668	0.0455328
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	B9
+//sphere origin
+%O	0	0	0
+//origin
+-0.0770551	-0.0565358	0.0870571
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	B10
+//sphere origin
+%O	0	0	0
+//origin
+-0.0825982	-0.0605921	0.0714791
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	B11
+//sphere origin
+%O	0	0	0
+//origin
+-0.0886397	-0.0597623	0.0550046
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	B12
+//sphere origin
+%O	0	0	0
+//origin
+-0.0909996	-0.0614103	0.0382315
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	B13
+//sphere origin
+%O	0	0	0
+//origin
+-0.0899716	-0.0607514	0.0206457
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	B14
+//sphere origin
+%O	0	0	0
+//origin
+-0.0872994	-0.0590253	0.00366077
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	B15
+//sphere origin
+%O	0	0	0
+//origin
+-0.0705707	-0.0715279	0.00363084
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	B16
+//sphere origin
+%O	0	0	0
+//origin
+-0.0726133	-0.0734553	0.0196439
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	B17
+//sphere origin
+%O	0	0	0
+//origin
+-0.0729336	-0.073675	0.0360941
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	B18
+//sphere origin
+%O	0	0	0
+//origin
+-0.0717786	-0.0724617	0.0523894
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	B19
+//sphere origin
+%O	0	0	0
+//origin
+-0.0646532	-0.0724804	0.0676239
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	B20
+//sphere origin
+%O	0	0	0
+//origin
+-0.061647	-0.0692609	0.0842413
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	B21
+//sphere origin
+%O	0	0	0
+//origin
+-0.0595878	-0.0603119	0.0991696
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	B22
+//sphere origin
+%O	0	0	0
+//origin
+-0.0511833	-0.051785	0.109934
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	B23
+//sphere origin
+%O	0	0	0
+//origin
+-0.0311818	-0.0314301	0.122079
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	B24
+//sphere origin
+%O	0	0	0
+//origin
+-0.0336412	-0.0467189	0.114299
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	B25
+//sphere origin
+%O	0	0	0
+//origin
+-0.0346379	-0.0606573	0.10498
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	B26
+//sphere origin
+%O	0	0	0
+//origin
+-0.0398743	-0.0698268	0.0936955
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	B27
+//sphere origin
+%O	0	0	0
+//origin
+-0.0437734	-0.0765575	0.0798999
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	B28
+//sphere origin
+%O	0	0	0
+//origin
+-0.0458343	-0.0799016	0.0640122
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	B29
+//sphere origin
+%O	0	0	0
+//origin
+-0.0532775	-0.0802809	0.0494186
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	B30
+//sphere origin
+%O	0	0	0
+//origin
+-0.0531185	-0.0799269	0.0334309
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	B31
+//sphere origin
+%O	0	0	0
+//origin
+-0.0525889	-0.0792325	0.0182455
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	B32
+//sphere origin
+%O	0	0	0
+//origin
+-0.051764	-0.0783307	0.00358817
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	C1
+//sphere origin
+%O	0	0	0
+//origin
+-0.00452655	-0.0140407	0.126672
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	C2
+//sphere origin
+%O	0	0	0
+//origin
+-0.00896111	-0.0274835	0.12197
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	C3
+//sphere origin
+%O	0	0	0
+//origin
+-0.0164226	-0.0398611	0.118266
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	C4
+//sphere origin
+%O	0	0	0
+//origin
+-0.0171406	-0.0530067	0.110158
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	C5
+//sphere origin
+%O	0	0	0
+//origin
+-0.0171077	-0.0638155	0.0990155
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	C6
+//sphere origin
+%O	0	0	0
+//origin
+-0.0195767	-0.0731342	0.0879722
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	C7
+//sphere origin
+%O	0	0	0
+//origin
+-0.0257884	-0.0795589	0.0756454
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	C8
+//sphere origin
+%O	0	0	0
+//origin
+-0.0269467	-0.0826024	0.0603107
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	C9
+//sphere origin
+%O	0	0	0
+//origin
+-0.0347841	-0.0839033	0.046605
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	C10
+//sphere origin
+%O	0	0	0
+//origin
+-0.0348795	-0.0840414	0.0317733
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	C11
+//sphere origin
+%O	0	0	0
+//origin
+-0.0348637	-0.0843746	0.0176015
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	C12
+//sphere origin
+%O	0	0	0
+//origin
+-0.0349436	-0.0855732	0.00359019
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	C13
+//sphere origin
+%O	0	0	0
+//origin
+-0.0170607	-0.0866612	0.00355354
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	C14
+//sphere origin
+%O	0	0	0
+//origin
+-0.0170948	-0.0841772	0.016701
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	C15
+//sphere origin
+%O	0	0	0
+//origin
+-0.0171791	-0.0838161	0.0299938
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	C16
+//sphere origin
+%O	0	0	0
+//origin
+-0.017123	-0.0837507	0.043926
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	C17
+//sphere origin
+%O	0	0	0
+//origin
+-0.00909854	-0.0815859	0.0570336
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	C18
+//sphere origin
+%O	0	0	0
+//origin
+-0.00860011	-0.0779349	0.0709582
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	C19
+//sphere origin
+%O	0	0	0
+//origin
+-0.000424484	-0.0713707	0.0829379
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	C20
+//sphere origin
+%O	0	0	0
+//origin
+-0.00035358	-0.0631472	0.0945987
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	C21
+//sphere origin
+%O	0	0	0
+//origin
+-0.000293139	-0.0530141	0.104744
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	C22
+//sphere origin
+%O	0	0	0
+//origin
+-0.000257024	-0.0412078	0.11284
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	C23
+//sphere origin
+%O	0	0	0
+//origin
+0.00861908	-0.0270613	0.119951
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	C24
+//sphere origin
+%O	0	0	0
+//origin
+0.0150619	-0.037413	0.110812
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	C25
+//sphere origin
+%O	0	0	0
+//origin
+0.0158506	-0.0499883	0.103812
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	C26
+//sphere origin
+%O	0	0	0
+//origin
+0.015605	-0.0600948	0.0932005
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	C27
+//sphere origin
+%O	0	0	0
+//origin
+0.017232	-0.0668864	0.0804852
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	C28
+//sphere origin
+%O	0	0	0
+//origin
+0.00742489	-0.0763077	0.0694348
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	C29
+//sphere origin
+%O	0	0	0
+//origin
+0.00740279	-0.0784282	0.0548895
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	C30
+//sphere origin
+%O	0	0	0
+//origin
+-0.000778589	-0.0820127	0.0422322
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	C31
+//sphere origin
+%O	0	0	0
+//origin
+-0.00079773	-0.0823679	0.0289585
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	C32
+//sphere origin
+%O	0	0	0
+//origin
+-0.000724786	-0.0817011	0.0160052
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	D1
+//sphere origin
+%O	0	0	0
+//origin
+0.0117233	-0.00858259	0.124919
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	D2
+//sphere origin
+%O	0	0	0
+//origin
+0.0227052	-0.0166845	0.119488
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	D3
+//sphere origin
+%O	0	0	0
+//origin
+0.0283794	-0.0288215	0.111466
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	D4
+//sphere origin
+%O	0	0	0
+//origin
+0.0300728	-0.0421098	0.102752
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	D5
+//sphere origin
+%O	0	0	0
+//origin
+0.0302608	-0.0534605	0.0924552
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	D6
+//sphere origin
+%O	0	0	0
+//origin
+0.0224171	-0.0714335	0.0680146
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	D7
+//sphere origin
+%O	0	0	0
+//origin
+0.0234448	-0.0749243	0.0548214
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	D8
+//sphere origin
+%O	0	0	0
+//origin
+0.0147546	-0.0789814	0.0414903
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	D9
+//sphere origin
+%O	0	0	0
+//origin
+0.014853	-0.0794981	0.0285166
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	D10
+//sphere origin
+%O	0	0	0
+//origin
+0.0149903	-0.0795042	0.0158886
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	D11
+//sphere origin
+%O	0	0	0
+//origin
+0.0303994	-0.0756552	0.0287833
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	D12
+//sphere origin
+%O	0	0	0
+//origin
+0.0296774	-0.0741423	0.0413844
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	D13
+//sphere origin
+%O	0	0	0
+//origin
+0.0383413	-0.0680895	0.0547405
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	D14
+//sphere origin
+%O	0	0	0
+//origin
+0.036737	-0.0650892	0.0680296
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	D15
+//sphere origin
+%O	0	0	0
+//origin
+0.033971	-0.0601063	0.0806258
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	D16
+//sphere origin
+%O	0	0	0
+//origin
+0.0435632	-0.0441315	0.0934274
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	D17
+//sphere origin
+%O	0	0	0
+//origin
+0.049084	-0.0497639	0.0817227
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	D18
+//sphere origin
+%O	0	0	0
+//origin
+0.0505967	-0.0570084	0.0693613
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	D19
+//sphere origin
+%O	0	0	0
+//origin
+0.0541579	-0.0609124	0.0569409
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	D20
+//sphere origin
+%O	0	0	0
+//origin
+0.0452804	-0.0690111	0.0426801
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	D21
+//sphere origin
+%O	0	0	0
+//origin
+0.0462254	-0.0702841	0.0296253
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	D22
+//sphere origin
+%O	0	0	0
+//origin
+0.0611429	-0.0616516	0.0304853
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	D23
+//sphere origin
+%O	0	0	0
+//origin
+0.0593672	-0.0600541	0.0436318
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	D24
+//sphere origin
+%O	0	0	0
+//origin
+0.0753078	-0.0504095	0.031645
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	D25
+//sphere origin
+%O	0	0	0
+//origin
+0.071212	-0.0479739	0.0443472
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	D26
+//sphere origin
+%O	0	0	0
+//origin
+0.0670516	-0.0491275	0.0580192
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	D27
+//sphere origin
+%O	0	0	0
+//origin
+0.0630586	-0.0462234	0.0710711
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	D28
+//sphere origin
+%O	0	0	0
+//origin
+0.0621925	-0.0361875	0.0839988
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	D29
+//sphere origin
+%O	0	0	0
+//origin
+0.054499	-0.0317424	0.0949666
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	D30
+//sphere origin
+%O	0	0	0
+//origin
+0.0420018	-0.0308872	0.103656
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	D31
+//sphere origin
+%O	0	0	0
+//origin
+0.0503195	-0.0165039	0.105216
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	D32
+//sphere origin
+%O	0	0	0
+//origin
+0.0377168	-0.0158036	0.11274
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	E1
+//sphere origin
+%O	0	0	0
+//origin
+0.0285349	-2.5973e-005	0.120878
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	E2
+//sphere origin
+%O	0	0	0
+//origin
+0.0409109	-6.62677e-005	0.112907
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	E3
+//sphere origin
+%O	0	0	0
+//origin
+0.0533551	-5.33445e-005	0.10596
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	E4
+//sphere origin
+%O	0	0	0
+//origin
+0.0648078	-3.51752e-005	0.0973657
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	E5
+//sphere origin
+%O	0	0	0
+//origin
+0.0621913	-0.0167592	0.0968243
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	E6
+//sphere origin
+%O	0	0	0
+//origin
+0.0717555	-0.0192857	0.0864607
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	E7
+//sphere origin
+%O	0	0	0
+//origin
+0.0731433	-0.0327328	0.0727174
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	E8
+//sphere origin
+%O	0	0	0
+//origin
+0.0783669	-0.0350246	0.0597402
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	E9
+//sphere origin
+%O	0	0	0
+//origin
+0.081657	-0.0339668	0.0455328
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	E10
+//sphere origin
+%O	0	0	0
+//origin
+0.0850686	-0.0352214	0.0320942
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	E11
+//sphere origin
+%O	0	0	0
+//origin
+0.0910334	-0.0188872	0.032373
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	E12
+//sphere origin
+%O	0	0	0
+//origin
+0.0884823	-0.0184327	0.0463824
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	E13
+//sphere origin
+%O	0	0	0
+//origin
+0.0844965	-0.0180282	0.0600856
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	E14
+//sphere origin
+%O	0	0	0
+//origin
+0.0796391	-0.0169862	0.0737707
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	E15
+//sphere origin
+%O	0	0	0
+//origin
+0.0747108	-1.76182e-005	0.0868947
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	E16
+//sphere origin
+%O	0	0	0
+//origin
+0.0813209	-3.34559e-005	0.0736968
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	E17
+//sphere origin
+%O	0	0	0
+//origin
+0.0862506	-3.9152e-005	0.0600138
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	E18
+//sphere origin
+%O	0	0	0
+//origin
+0.0890081	-4.02454e-005	0.0458143
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	E19
+//sphere origin
+%O	0	0	0
+//origin
+0.0930323	3.00225e-005	0.0323763
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	E20
+//sphere origin
+%O	0	0	0
+//origin
+0.0909966	0.0181144	0.0323352
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	E21
+//sphere origin
+%O	0	0	0
+//origin
+0.0895628	0.0178183	0.0467873
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	E22
+//sphere origin
+%O	0	0	0
+//origin
+0.0852801	0.0181225	0.0605497
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	E23
+//sphere origin
+%O	0	0	0
+//origin
+0.0794081	0.0168723	0.0735842
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	E24
+//sphere origin
+%O	0	0	0
+//origin
+0.0708042	0.0189715	0.0854607
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	E25
+//sphere origin
+%O	0	0	0
+//origin
+0.0622919	0.0166911	0.096948
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	E26
+//sphere origin
+%O	0	0	0
+//origin
+0.0506775	0.0164797	0.105856
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	E27
+//sphere origin
+%O	0	0	0
+//origin
+0.0546078	0.0316228	0.0951425
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	E28
+//sphere origin
+%O	0	0	0
+//origin
+0.0623015	0.036067	0.0841214
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	E29
+//sphere origin
+%O	0	0	0
+//origin
+0.0727006	0.0324184	0.0723472
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	E30
+//sphere origin
+%O	0	0	0
+//origin
+0.0781314	0.0348247	0.059587
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	E31
+//sphere origin
+%O	0	0	0
+//origin
+0.081769	0.0339017	0.0455771
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	E32
+//sphere origin
+%O	0	0	0
+//origin
+0.0847158	0.0350988	0.032003
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	F1
+//sphere origin
+%O	0	0	0
+//origin
+0.0116887	0.00853085	0.124703
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	F2
+//sphere origin
+%O	0	0	0
+//origin
+0.0223603	0.0163705	0.118172
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	F3
+//sphere origin
+%O	0	0	0
+//origin
+0.0382008	0.0158503	0.113907
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	F4
+//sphere origin
+%O	0	0	0
+//origin
+0.0420771	0.0307339	0.103821
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	F5
+//sphere origin
+%O	0	0	0
+//origin
+0.0432629	0.0436147	0.0928901
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	F6
+//sphere origin
+%O	0	0	0
+//origin
+0.0492452	0.0496148	0.0819186
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	F7
+//sphere origin
+%O	0	0	0
+//origin
+0.0626258	0.0457038	0.0706706
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	F8
+//sphere origin
+%O	0	0	0
+//origin
+0.0663086	0.0483918	0.057438
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	F9
+//sphere origin
+%O	0	0	0
+//origin
+0.0705833	0.0473507	0.0440246
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	F10
+//sphere origin
+%O	0	0	0
+//origin
+0.0736128	0.0492879	0.0310811
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	F11
+//sphere origin
+%O	0	0	0
+//origin
+0.0601865	0.0605471	0.0301158
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	F12
+//sphere origin
+%O	0	0	0
+//origin
+0.0586323	0.059076	0.0431962
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	F13
+//sphere origin
+%O	0	0	0
+//origin
+0.0533427	0.059778	0.0562181
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	F14
+//sphere origin
+%O	0	0	0
+//origin
+0.0502126	0.0562919	0.0689491
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	F15
+//sphere origin
+%O	0	0	0
+//origin
+0.0333049	0.0587604	0.0793996
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	F16
+//sphere origin
+%O	0	0	0
+//origin
+0.0298546	0.0525777	0.0914945
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	F17
+//sphere origin
+%O	0	0	0
+//origin
+0.0300397	0.0418316	0.102661
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	F18
+//sphere origin
+%O	0	0	0
+//origin
+0.0282459	0.0285188	0.111058
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	F19
+//sphere origin
+%O	0	0	0
+//origin
+0.0155533	0.0491298	0.102534
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	F20
+//sphere origin
+%O	0	0	0
+//origin
+0.0150802	0.0584296	0.0911718
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	F21
+//sphere origin
+%O	0	0	0
+//origin
+0.0169099	0.0656353	0.0794859
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	F22
+//sphere origin
+%O	0	0	0
+//origin
+0.0365429	0.0643928	0.0677401
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	F23
+//sphere origin
+%O	0	0	0
+//origin
+0.0386092	0.0680377	0.0550011
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	F24
+//sphere origin
+%O	0	0	0
+//origin
+0.0441449	0.0670967	0.0418487
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	F25
+//sphere origin
+%O	0	0	0
+//origin
+0.0452813	0.0686719	0.0291424
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	F26
+//sphere origin
+%O	0	0	0
+//origin
+0.0296066	0.073568	0.0282632
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	F27
+//sphere origin
+%O	0	0	0
+//origin
+0.0297933	0.073865	0.0414834
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	F28
+//sphere origin
+%O	0	0	0
+//origin
+0.0230285	0.0734367	0.0541118
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	F29
+//sphere origin
+%O	0	0	0
+//origin
+0.0222652	0.0706626	0.067656
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	F30
+//sphere origin
+%O	0	0	0
+//origin
+0.0144212	0.0772662	0.040918
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	F31
+//sphere origin
+%O	0	0	0
+//origin
+0.0141476	0.0764275	0.0277354
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	F32
+//sphere origin
+%O	0	0	0
+//origin
+0.0144015	0.0769454	0.0155564
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	G1
+//sphere origin
+%O	0	0	0
+//origin
+-0.00455471	0.0139267	0.125553
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	G2
+//sphere origin
+%O	0	0	0
+//origin
+0.00841313	0.0266055	0.118463
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	G3
+//sphere origin
+%O	0	0	0
+//origin
+0.0151439	0.0373449	0.111187
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	G4
+//sphere origin
+%O	0	0	0
+//origin
+-0.000264316	0.0410368	0.112735
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	G5
+//sphere origin
+%O	0	0	0
+//origin
+-0.000345554	0.0524493	0.104004
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	G6
+//sphere origin
+%O	0	0	0
+//origin
+-0.000380004	0.0627216	0.0942618
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	G7
+//sphere origin
+%O	0	0	0
+//origin
+-0.000508205	0.070274	0.0819952
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	G8
+//sphere origin
+%O	0	0	0
+//origin
+0.00702168	0.0738744	0.0676507
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	G9
+//sphere origin
+%O	0	0	0
+//origin
+0.00728397	0.0773404	0.0544684
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	G10
+//sphere origin
+%O	0	0	0
+//origin
+-0.000912097	0.079892	0.0414734
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	G11
+//sphere origin
+%O	0	0	0
+//origin
+-0.000918061	0.0804199	0.0284955
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	G12
+//sphere origin
+%O	0	0	0
+//origin
+-0.000774157	0.0807067	0.0158991
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	G13
+//sphere origin
+%O	0	0	0
+//origin
+-0.0167078	0.0836035	0.00325453
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	G14
+//sphere origin
+%O	0	0	0
+//origin
+-0.0170092	0.0831688	0.0165229
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	G15
+//sphere origin
+%O	0	0	0
+//origin
+-0.0169579	0.0815712	0.0293851
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	G16
+//sphere origin
+%O	0	0	0
+//origin
+-0.0169618	0.0820379	0.0432248
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	G17
+//sphere origin
+%O	0	0	0
+//origin
+-0.00906523	0.0795555	0.0559178
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	G18
+//sphere origin
+%O	0	0	0
+//origin
+-0.00859756	0.0772325	0.0705072
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	G19
+//sphere origin
+%O	0	0	0
+//origin
+-0.0195031	0.0726772	0.0874026
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	G20
+//sphere origin
+%O	0	0	0
+//origin
+-0.0169959	0.0630487	0.0978883
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	G21
+//sphere origin
+%O	0	0	0
+//origin
+-0.0169486	0.0519725	0.108057
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	G22
+//sphere origin
+%O	0	0	0
+//origin
+-0.0162724	0.0392275	0.116371
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	G23
+//sphere origin
+%O	0	0	0
+//origin
+-0.00895945	0.0273972	0.121638
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	G24
+//sphere origin
+%O	0	0	0
+//origin
+-0.0332052	0.0461325	0.112444
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	G25
+//sphere origin
+%O	0	0	0
+//origin
+-0.0339503	0.0593379	0.102457
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	G26
+//sphere origin
+%O	0	0	0
+//origin
+-0.0392034	0.068637	0.091794
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	G27
+//sphere origin
+%O	0	0	0
+//origin
+-0.0253488	0.077637	0.0738813
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	G28
+//sphere origin
+%O	0	0	0
+//origin
+-0.0264221	0.0802663	0.0587764
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	G29
+//sphere origin
+%O	0	0	0
+//origin
+-0.0340826	0.08168	0.0454633
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	G30
+//sphere origin
+%O	0	0	0
+//origin
+-0.0341051	0.081568	0.0309356
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	G31
+//sphere origin
+%O	0	0	0
+//origin
+-0.0342472	0.0824882	0.0172577
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	G32
+//sphere origin
+%O	0	0	0
+//origin
+-0.034415	0.0842587	0.00326968
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	H1
+//sphere origin
+%O	0	0	0
+//origin
+-0.0239723	0.0176589	0.126198
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	H2
+//sphere origin
+%O	0	0	0
+//origin
+-0.0308196	0.0311261	0.120262
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	H3
+//sphere origin
+%O	0	0	0
+//origin
+-0.0420257	0.0178523	0.126261
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	H4
+//sphere origin
+%O	0	0	0
+//origin
+-0.0479749	0.0355616	0.118632
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	H5
+//sphere origin
+%O	0	0	0
+//origin
+-0.0500339	0.0508487	0.107148
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	H6
+//sphere origin
+%O	0	0	0
+//origin
+-0.0579984	0.058974	0.0962338
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	H7
+//sphere origin
+%O	0	0	0
+//origin
+-0.0597154	0.0672537	0.0813353
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	H8
+//sphere origin
+%O	0	0	0
+//origin
+-0.0427793	0.0746952	0.0777898
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	H9
+//sphere origin
+%O	0	0	0
+//origin
+-0.0444208	0.0770844	0.0617451
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	H10
+//sphere origin
+%O	0	0	0
+//origin
+-0.051398	0.0771522	0.0475042
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	H11
+//sphere origin
+%O	0	0	0
+//origin
+-0.0511982	0.0766796	0.032158
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	H12
+//sphere origin
+%O	0	0	0
+//origin
+-0.051294	0.0771434	0.0177805
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	H13
+//sphere origin
+%O	0	0	0
+//origin
+-0.0514225	0.0781306	0.00317077
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	H14
+//sphere origin
+%O	0	0	0
+//origin
+-0.0683493	0.069697	0.0032326
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	H15
+//sphere origin
+%O	0	0	0
+//origin
+-0.0688942	0.0697784	0.0186964
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	H16
+//sphere origin
+%O	0	0	0
+//origin
+-0.0698066	0.0706268	0.0344918
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	H17
+//sphere origin
+%O	0	0	0
+//origin
+-0.0688632	0.0696141	0.0501524
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	H18
+//sphere origin
+%O	0	0	0
+//origin
+-0.0629909	0.0707758	0.0657093
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	H19
+//sphere origin
+%O	0	0	0
+//origin
+-0.0760881	0.0564338	0.0858425
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	H20
+//sphere origin
+%O	0	0	0
+//origin
+-0.0806975	0.0597462	0.0697123
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	H21
+//sphere origin
+%O	0	0	0
+//origin
+-0.0870768	0.0593665	0.0539699
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	H22
+//sphere origin
+%O	0	0	0
+//origin
+-0.0869271	0.0591905	0.036523
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	H23
+//sphere origin
+%O	0	0	0
+//origin
+-0.0864178	0.0589656	0.019853
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	H24
+//sphere origin
+%O	0	0	0
+//origin
+-0.0849794	0.0582795	0.00326319
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	H25
+//sphere origin
+%O	0	0	0
+//origin
+-0.099149	0.0425046	0.00330128
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	H26
+//sphere origin
+%O	0	0	0
+//origin
+-0.101948	0.0435247	0.0209297
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	H27
+//sphere origin
+%O	0	0	0
+//origin
+-0.100668	0.0427796	0.0379961
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	H28
+//sphere origin
+%O	0	0	0
+//origin
+-0.0985452	0.0418067	0.0549537
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	H29
+//sphere origin
+%O	0	0	0
+//origin
+-0.0940915	0.0429171	0.0720081
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	H30
+//sphere origin
+%O	0	0	0
+//origin
+-0.0878379	0.0400876	0.0877446
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	H31
+//sphere origin
+%O	0	0	0
+//origin
+-0.0744081	0.043977	0.100943
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	H32
+//sphere origin
+%O	0	0	0
+//origin
+-0.0637287	0.0376429	0.111605
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	M1
+//sphere origin
+%O	0	0	0
+//origin
+-0.0500004	0.0730105	-0.0199476
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	M2
+//sphere origin
+%O	0	0	0
+//origin
+-0.0518297	-0.076043	-0.0209133
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	IO2
+//Inferior Ocular - Lower-VEOG
+//sphere origin
+%O	0	0	0
+//origin
+0.0843973	-0.0304254	-0.0134637
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	IO1
+//Inferior Ocular - Lower-VEOG
+//sphere origin
+%O	0	0	0
+//origin
+0.0816712	0.031982	-0.0129191
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	SO2
+//Superior Ocular - Upper-VEOG
+//sphere origin
+%O	0	0	0
+//origin
+0.086493	-0.0339611	0.029058
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	SO1
+//Superior Ocular - Upper-VEOG
+//sphere origin
+%O	0	0	0
+//origin
+0.0890365	0.0274316	0.0302096
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	LO1
+//Lateral Ocular - HEOG
+//sphere origin
+%O	0	0	0
+//origin
+0.0578439	0.0628253	-0.00346263
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	LO2
+//Lateral Ocular - HEOG
+//sphere origin
+%O	0	0	0
+//origin
+0.055964	-0.0659113	-0.00322249
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	Ear1
+//sphere origin
+%O	0	0	0
+//origin
+-0.0212151	0.0822703	-0.0293765
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	Ear2
+//sphere origin
+%O	0	0	0
+//origin
+-0.0260306	-0.0783377	-0.0267213
+
+//ecSensor typecode/state--------------------------------
+%S	400
+//ecSensor name:
+%N	Nose
+//sphere origin
+%O	0	0	0
+//origin
+0.121958	0.000311779	-0.0263323
