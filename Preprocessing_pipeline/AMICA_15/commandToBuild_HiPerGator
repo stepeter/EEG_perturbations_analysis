@@ -1,0 +1,37 @@
+#Building MPICH:
+
+module load intel
+tar xfz mpich-3.2.tar.gz
+
+mkdir /ufrc/dferris/s.peterson/mpich-install
+
+mkdir /ufrc/dferris/s.peterson/mpichBuild/mpich-3.2
+
+cd /ufrc/dferris/s.peterson/mpichBuild/mpich-3.2
+
+#Set enivronment variables for AMICA
+export CC=icc
+export CXX=icc
+export FC=ifort
+export F77=ifort
+
+#Configure
+/ufrc/dferris/s.peterson/mpich-3.2/configure \-prefix=/ufrc/dferris/s.peterson/mpich-install |& tee c.txt
+
+#Build
+make |& tee m.txt
+
+#Install
+make install |& tee mi.txt
+
+#Set path as variable
+export PATH=/ufrc/dferris/s.peterson/mpich-install/bin:$PATH
+
+
+
+
+#Building AMICA:
+
+module load intel
+
+/ufrc/dferris/s.peterson/mpich-install/bin/mpif90 -I/apps/compilers/intel/2016/mkl/include/ -fpp -qopenmp -O3 -mkl -static-intel -DMKL funmod2.f90 amica15.f90 -o amica15ub
