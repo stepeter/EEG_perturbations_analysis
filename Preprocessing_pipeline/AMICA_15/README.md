@@ -1,4 +1,4 @@
-# amica
+# amica (from https://github.com/japalmer29/amica)
 Code for AMICA: Adaptive Mixture ICA with shared component
 
 TO COMPILE WITH INTEL FORTRAN ON WINDOWS
