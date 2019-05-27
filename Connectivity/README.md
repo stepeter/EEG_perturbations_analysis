@@ -1,1 +1,1 @@
-This folder includes scripts for connectivity analysis with SIFT toolbox.
+This folder includes scripts for connectivity analysis with SIFT toolbox. Once the EEG and EMG data is combined and epoched, connectivity computation can be performed using SIFT. The parameters I used can be found in my NeuroImage paper (https://doi.org/10.1016/j.neuroimage.2019.05.038).
